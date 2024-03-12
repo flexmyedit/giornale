@@ -1,2 +1,36 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <div class="container">
+        <header>
+            <h1>Il Giornale</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Novità</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <article>
+                <h2>Ultimo Articolo</h2>
+              <t1>
+                CORRUZIONE IN ITALIA
+              </t1>  
+              <p>Il 30 gennaio 2024, l’agenzia Transparency     
+                   International ha pubblicato il rapporto annuale   
+                   sulla percezione della trasparenza e della 
+                   corruzione nei vari Paesi del mondo. Tale indice, 
+                   detto anche CPI (acronimo inglese per Corruption 
+                   Perception Index), è una classifica statistica 
+                   che analizza i livelli di corruzione nel settore 
+                   pubblico. L’Italia per l’anno 2023 si è piazzata 
+                   bene. Su una scala dove “100” segna il più alto 
+                   livello di corruzione e “0” il più basso, il 
+                   nostro Paese si posiziona al 17° posto in Europa 
+                   e al 42° su 180 nazioni prese in esame, con un 
+                   punteggio di 56.</p>
+            </article>
+        </main>
+        <footer>
+            <p>&copy; 2024 Il Giornale</p>
+        </footer>
+    </div>
